@@ -24,7 +24,7 @@ Computer Science and Data Science Student @ University of Wisconsin–Madison
 ### 💬 Languages
 
 ⚙️ C++  
-🔧 C
+🔧 C  
 🐍 Python  
 ☕ Java  
 🟨 JavaScript  
