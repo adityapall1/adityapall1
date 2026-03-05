@@ -60,21 +60,6 @@ Electron-based file explorer with **LLM-powered navigation and search.**
   - LanceDB semantic vector retrieval
 - UI focused on faster file discovery and workflow efficiency
 
-### 🥭 MangoQuant
-Quantitative research framework for modeling **commodity prices**.
-- Time-series modeling with lag features and rolling statistics
-- ElasticNet predictive models
-- Integration of external signals like weather data
-- End-to-end backtesting pipeline
-- Simulation of trading constraints and execution friction
-
-### 🚀 Rocket Flight Simulator (In Progress)
-A physics-based rocket flight simulator modeling thrust, drag, and gravitational forces.
-- Numerical integration of motion equations
-- Atmospheric drag modeling
-- Engine thrust curves
-- Real-time trajectory visualization
-
 ### 🔁 Local Loop
 A campus community platform designed for **UW–Madison students to quickly communicate issues, share updates, and discover useful campus information.**
 -  **Interactive campus map** for locating study spaces and campus resources
@@ -83,9 +68,14 @@ A campus community platform designed for **UW–Madison students to quickly comm
 -  **Real-time issue reporting** and help request sharing across campus
 -  **Modern UI/UX** focused on clarity, accessibility, and fast interaction
 
-### More on these projects below
+### 🚀 Rocket Flight Simulator (In Progress)
+A physics-based rocket flight simulator modeling thrust, drag, and gravitational forces.
+- Numerical integration of motion equations
+- Atmospheric drag modeling
+- Engine thrust curves
+- Real-time trajectory visualization
 
-### 
+## My projects are in private repositories. Get in contact with me if you'd like to work together!
 ---
 
 ## 📚 Current Focus
